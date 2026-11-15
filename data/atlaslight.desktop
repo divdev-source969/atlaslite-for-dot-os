@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=AtlasLight
+GenericName=Web Browser
+Comment=Tiny, fast browser for old netbooks
+Exec=atlaslight %u
+Terminal=false
+Categories=Network;WebBrowser;
+MimeType=text/html;x-scheme-handler/http;x-scheme-handler/https;
